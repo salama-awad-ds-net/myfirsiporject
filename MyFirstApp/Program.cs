@@ -6,6 +6,8 @@ using System.Globalization;//inmport built-in library
 
 
 
+
+
 //Finding the Even and Odd
 /*
 for (int j = 0; j <=10; j=j+2)
@@ -21,7 +23,7 @@ for(int i = 1; i <= 10; i++)
     }
 }
 
-
+// possword githoub misscallsalama123
 /*
 // for Loop
 for (int i = 1; i <=5 ; i++)
